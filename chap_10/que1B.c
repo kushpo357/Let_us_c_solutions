@@ -6,7 +6,7 @@ int main()
     int num, c = -1;
     printf("enter number : ");
     scanf("%d", &num);
-    printf("equialent binary = %d \n", bin(num, c));
+    printf("equialent binary = %d\n", bin(num, c));
     return 0;
 }
 int bin (int num, int c)
